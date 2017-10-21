@@ -11,6 +11,8 @@ all of the functions are documented
 
 5) imgMod.py this illustrate the have a logo can be extracted and stiched to another image
 
+6) thresholdAll.py explains how we can convert a very dark unredable image with text to a readable image using different thresholds.
+
 
 
 
