@@ -38,4 +38,5 @@ the_hunger_games = movie.Movie("The Hunger Games",
                                 "https://www.youtube.com/watch?v=PbA63a7H0bo")
 
 movies = [toy_story4, avatar, casino_royale, ratatouille, midnight_in_paris, the_hunger_games]
-fresh_tomatoes.open_movies_page(movies)
+#fresh_tomatoes.open_movies_page(movies)
+print(
